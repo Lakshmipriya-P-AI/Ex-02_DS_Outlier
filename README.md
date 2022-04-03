@@ -44,8 +44,11 @@ df3.boxplot()
 
 # OUTPUT
 ![output1](https://user-images.githubusercontent.com/93427923/161434953-340c00dd-f253-4df9-9233-0c072a7b655c.png)
+
 ![output2](https://user-images.githubusercontent.com/93427923/161434969-42290b34-d767-4a76-aeb6-dcf7212fbad6.png)
+
 ![output3](https://user-images.githubusercontent.com/93427923/161434978-673c0c52-51c3-4e07-b75f-c40f2deeb035.png)
+
 ![output4](https://user-images.githubusercontent.com/93427923/161434987-4e71d278-e341-49f0-baa7-104eecce3b95.png)
 
 # Result:
